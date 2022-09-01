@@ -1,0 +1,5 @@
+@media (min-width: 1000px) {
+    .advice-card-container{
+        width: 60%;
+    }
+}
